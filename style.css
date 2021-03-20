@@ -16,8 +16,6 @@ p {
     margin-top: -16px;
     margin-bottom: -15px;
 }
-
-
 .form {
     display:flex;
     width: 560px;
@@ -57,7 +55,7 @@ label {
     height: 41px;
     width: 100px;
     color: white;
-    background:#FF1493;
+    background: rgb(109, 109, 109);
     font-size: 16px;
     border: none;
 }
